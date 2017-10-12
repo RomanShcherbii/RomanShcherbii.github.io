@@ -1,0 +1,33 @@
+{  
+   "applinks":{  
+      "apps":[  
+
+      ],
+      "details":[  
+         {  
+            "appID":"2B835T55H7.com.intapp.time",
+            "paths":[  
+               "*"
+            ]
+         },
+         {  
+            "appID":"2B835T55H7.com.intapp.time.good.enterprise",
+            "paths":[  
+               "*"
+            ]
+         },
+         {  
+            "appID":"HDAHLV6E8W.com.intapp.time.store",
+            "paths":[  
+               "*"
+            ]
+         },
+         {  
+            "appID":"HDAHLV6E8W.com.intapp.time.good",
+            "paths":[  
+               "*"
+            ]
+         }
+      ]
+   }
+}
